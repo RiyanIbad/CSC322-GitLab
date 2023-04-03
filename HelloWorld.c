@@ -1,2 +1,1 @@
-printf("Hello World
-");
+Hello World\!
